@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notes Project</string>
+    <string name="notas" translatable="false">NOTES/TASKS</string>
+    <string name="guardar" translatable="false">Save</string>
+    <string name="cancelar" translatable="false">Cancel</string>
+    <string name="editar_nota" translatable="false">Edit Note/Task</string>
+    <string name="eliminar" translatable="false">Delete</string>
+    <string name="nombre" translatable="false">Tittle</string>
+    <string name="descripcion" translatable="false">Description</string>
+    <string name="fecha_cumplimiento" translatable="false">Due Date DD/MM/YY</string>
+    <string name="hora_cumplimiento" translatable="false">Due Time HH:MM</string>
+    <string name="nota" translatable="false">Note</string>
+    <string name="tarea" translatable="false">Task</string>
+    <string name="anadir" translatable="false">ADD</string>
+    <string name="buscar" translatable="false">Search</string>
+    <string name="favorito" translatable="false">Favourite</string>
+    <string name="marcar_cumplida" translatable="false">Mark as completed</string>
+    <string name="nota_tarea" translatable="false">Notes/Tasks</string>
+    <string name="titulo" translatable="false">NOTES / TASKS</string>
+    <string name="terminada" translatable="false">Completed</string>
+    <string name="grabar_audio" translatable="false">Record Audio</string>
+    <string name="abrir_camara" translatable="false">Open Camera</string>
+    <string name="fecha" translatable="false">Date</string>
+    <string name="hora" translatable="false">Time</string>
+    <string name="tarea_pendiente" translatable="false">Pending Task</string>
+    <string name="tarea_canal" translatable="false">Notification channel</string>
+    <string name="la_tarea" translatable="false">The task</string>
+    <string name="debe_ser_" translatable="false">must be completed now.</string>
+    <string name="pendiente" translatable="false">Pending Task </string>
+    <string name="completar_man" translatable="false"> must be completed for tomorrow.</string>
+    <string name="recordatorio" translatable="false">Reminder</string>
+</resources>

@@ -1,3 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">ProyectoFinal</string>
+    <string name="app_name" translatable="false">Proyecto Notas</string>
+    <string name="notas" translatable="false">NOTAS/TAREAS</string>
+    <string name="guardar" translatable="false">Guardar</string>
+    <string name="cancelar" translatable="false">Cancelar</string>
+    <string name="editar_nota" translatable="false">Editar Nota/Tarea</string>
+    <string name="eliminar" translatable="false">Eliminar</string>
+    <string name="nombre" translatable="false">Título</string>
+    <string name="descripcion" translatable="false">Descripción</string>
+    <string name="fecha_cumplimiento" translatable="false">Fecha de Cumplimiento DD/MM/AA</string>
+    <string name="hora_cumplimiento" translatable="false">Hora de Cumplimiento HH:MM</string>
+    <string name="nota" translatable="false">Nota</string>
+    <string name="tarea" translatable="false">Tarea</string>
+    <string name="anadir" translatable="false">AÑADIR</string>
+    <string name="buscar" translatable="false">Buscar</string>
+    <string name="favorito" translatable="false">Favorito</string>
+    <string name="marcar_cumplida" translatable="false">Marcar como cumplida</string>
+    <string name="nota_tarea" translatable="false">Notas/Tareas</string>
+    <string name="titulo" translatable="false">NOTAS / TAREAS</string>
+    <string name="terminada" translatable="false">Terminada</string>
+    <string name="grabar_audio" translatable="false">Grabar Audio</string>
+    <string name="abrir_camara" translatable="false">Abrir Cámara</string>
+    <string name="fecha" translatable="false">Fecha</string>
+    <string name="hora" translatable="false">Hora</string>
+    <string name="tarea_pendiente" translatable="false">Tareas Pendientes</string>
+    <string name="tarea_canal" translatable="false">Canal para notificaciones</string>
+    <string name="la_tarea" translatable="false">La tarea</string>
+    <string name="debe_ser_" translatable="false">debe ser completada ahora.</string>
+    <string name="pendiente" translatable="false">Tarea pendiente</string>
+    <string name="completar_man" translatable="false"> debe completarse para mañana.</string>
+    <string name="recordatorio" translatable="false">Recordatorio</string>
 </resources>
